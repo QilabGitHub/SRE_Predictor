@@ -24,8 +24,11 @@ The codebase relies on the following dependancies
 java version 1.8.0_131
 Juicer Tools version 1.9.9
 R version 3.6.1
-Bedtools version 2.29.2 
+Bedtools version 2.29.2
+Python 2.7.15
+Python 3.7.6
 bigWigSummary
+
 ```
 
 # Reference
