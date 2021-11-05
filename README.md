@@ -1,5 +1,5 @@
 # SRE_Predictor
-The SRE_Predictor predicts which enhancer pairs are synergistic regulatory enhancers (SREs). For key genes, such as oncogenes in tumors, they are more likely to be multiple enhancers in ultralong distance. Our multiplexed CRISPRi screen revealed an intergrated two-layer structure of these enhancers. The SREs are critical in maintating the robustness of gene expression upon perturbation. 
+The SRE_Predictor predicts which enhancer pairs are synergistic regulatory enhancers (SREs). For key genes, such as oncogenes in tumors, they are more likely to be multiple enhancers in ultralong distance. This tool focus genes which are regulated by multiple genes (>=5 enhancers) spanning in large regulatory landscapes (>=200Kb). Our multiplexed CRISPRi screen revealed an intergrated two-layer structure of these enhancers. The SREs are critical in maintating the robustness of gene expression upon perturbation. 
 
 
 # Running the SRE_Predictor Model
