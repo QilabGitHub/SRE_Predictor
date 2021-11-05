@@ -17,7 +17,6 @@ All the main programs are in SRE_Predictor.sh file. Please run the script and ge
 4. The track file of spatial contacts for visulization in WashU Epigenome Browser (.bedpe and WashU.txt)
 5. The predcited SRE result with sorted intersction score (.txt and .pdf)
 
-# Method
 # Reference
 Xueqiu Lin, Yanxia Liu, Shuai Liu, Xiang Zhu, Lingling Wu, Haifeng Wang, Muneaki Nakamura, 
 Yaqiang Cao, Dehua Zhao, Xiaoshu Xu, Jasprina N. Noordermeer, Wing Hung Wong, Keji Zhao, Lei S. Qi*. Enhancer Interaction Networks for Ultralong-Distance Genome Regulation. (Under Revision)
