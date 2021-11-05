@@ -8,6 +8,7 @@ Running the SRE_Predictor model consists of the following steps:
   2. Calculate normalized spatial contacts between enhancer pairs 
   3. Calculate co-occupancy of chromatin features
   4. Compute interaction score to rank enhancer pairs as SREs
+  
 All the main programs are in SRE_Predictor.sh file. Please run the script and get the result from the folder called Output.
 
 ## Ouput folder have one folder for gene. The gene folder includes:
