@@ -10,6 +10,9 @@ Running the SRE_Predictor model consists of the following steps:
   4. Compute interaction score to rank enhancer pairs as SREs
 
 All the main programs are in SRE_Predictor.sh file. Please run the script and get the result from the folder called Output.
+## Input folder includes:
+  
+## Ouput folder includes:
 
 # Method
 # Reference
