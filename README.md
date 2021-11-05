@@ -11,7 +11,7 @@ Running the SRE_Predictor model consists of the following steps:
   
 All the main programs are in SRE_Predictor.sh file. Please run the script and get the result from the folder called Output.
 
-## Ouput folder have one folder for gene. The gene folder includes:
+## Ouput folder have one folder for each gene. Each gene folder includes:
 1. Enahcer_region.bed (enhancer.bed and promoter_enhancer.bed)
 2. Spatial contacts matrix for enhancer pairs (Zscore.txt)
 3. The co-occupancy of chromatin features for enhancer pairs (VC_SQRT_norm.txt)
